@@ -2,6 +2,8 @@
 
 1. First game - PingPong in JS/CSS/HTML
 
+Link -> https://chimerical-unicorn-7f00d4.netlify.app/
+
 START TO GAME
 
 ![starttogame](https://user-images.githubusercontent.com/31259850/214609225-4642e8c5-b013-459c-98fc-80a14bf67e18.PNG)
