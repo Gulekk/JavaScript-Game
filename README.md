@@ -1,6 +1,6 @@
 ﻿# JavaScript-Game
 
-1. First game - PingPong in JS/CSS/HTML
+1. First game - PingPong in JS/CSS/HTML.
 
 Link -> https://chimerical-unicorn-7f00d4.netlify.app/
 
