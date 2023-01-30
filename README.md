@@ -9,7 +9,7 @@ START GAME.
 ![startgame](https://user-images.githubusercontent.com/31259850/215265936-878fd6fa-c1ca-49e2-bf9a-1208c7a4cfe9.PNG)
 
 
-GAME
+GAME.
 
 ![game](https://user-images.githubusercontent.com/31259850/214609266-49510aef-0eda-416f-9f30-dfc421614006.PNG)
 
