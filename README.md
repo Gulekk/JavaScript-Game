@@ -4,7 +4,7 @@
 
 Link -> https://chimerical-unicorn-7f00d4.netlify.app/
 
-START GAME
+START GAME.
 
 ![startgame](https://user-images.githubusercontent.com/31259850/215265936-878fd6fa-c1ca-49e2-bf9a-1208c7a4cfe9.PNG)
 
