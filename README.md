@@ -13,7 +13,7 @@ GAME.
 
 ![game](https://user-images.githubusercontent.com/31259850/214609266-49510aef-0eda-416f-9f30-dfc421614006.PNG)
 
-END GAME
+END GAME.
 
 ![endgame](https://user-images.githubusercontent.com/31259850/214609372-01e7f092-1d5b-4ce7-85ad-0ef5d344650b.PNG)
 
